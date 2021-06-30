@@ -1,24 +1,8 @@
-# README
+# Railsを学ぼうで作成したアプリケーションです。
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+ご確認お願いいたします。
 
-Things you may want to cover:
+# 使い方
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+登録なしにすぐにお使いできるTodoアプリです。
+画像投稿機能もあります。
